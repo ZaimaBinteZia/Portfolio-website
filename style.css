@@ -1,0 +1,60 @@
+body {
+
+    background-color: antiquewhite;
+
+    text-align: center
+}
+
+nav {
+
+    background-color: rgb(122, 163, 149);
+
+    padding: 10px;
+
+}
+
+ul {
+
+    list-style-type: none;
+
+    margin: 0;
+
+    padding: 0;
+
+    overflow: hidden;
+
+}
+
+li {
+
+    float: left;
+
+}
+
+li a {
+
+    display: block;
+
+    padding: 5px;
+
+}
+
+li a:hover {
+
+    color: rgb(74, 36, 36);
+
+}
+
+button {
+
+    display: block;
+
+    margin: 20px auto;
+
+}
+
+img {
+
+    width: 200px;
+
+}
